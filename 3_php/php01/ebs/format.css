@@ -1,0 +1,39 @@
+body {
+	font-family: Calibri; 
+	font-size: 18px;
+	background-color: #94D1FC;
+}
+
+h1  {
+	text-align: center;
+	color: white; 
+}
+
+h2 {
+	background-color: red;
+	color: white;
+}
+
+table{
+	border-width: 2px; 
+	border-style: solid;
+}
+
+td {
+	border-width: 1px; 
+	border-style: dotted;
+}
+
+ul{
+	list-style-type: square;
+	font-size: 15px;
+}
+
+.mittig
+{
+	text-align: center;
+}
+.datum
+{
+	text-align: center;
+}
